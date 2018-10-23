@@ -47,7 +47,8 @@ for (let a=0 ; a < products.length ; a++){
 
 //++ agar tidak ada mengulang
 
-
+costs name 
+Text "handsome"
 
 
 
