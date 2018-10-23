@@ -50,6 +50,7 @@ for (let a=0 ; a < products.length ; a++){
 costs name 
 Text "handsome"
 
+const arrayNew = [1, 2, 3, 4]
 
 
 
